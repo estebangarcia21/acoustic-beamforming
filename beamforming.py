@@ -4,6 +4,8 @@
 Example usage: python3 beamforming_pattern_gen.py
 Author: CGrassin (https://charleslabs.fr)
 License: MIT
+
+Refactored according to PEP standards by estebangarcia333
 """
 
 import numpy as np
